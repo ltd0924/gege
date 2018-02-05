@@ -1,0 +1,27 @@
+.back
+{
+	background-image: url(../img/00.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+		
+		
+}
+.back1
+{
+	background-image: url(../img/03.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+		
+}
+.back2
+{
+	background-image: url(../img/19.jpg);
+	background-repeat: no-repeat;
+		
+}
+.img1
+{
+	background-position: center;
+}
